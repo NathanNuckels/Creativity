@@ -1,0 +1,36 @@
+This is the international phonetic alphabet.
+
+/p/	pan	/pan/
+/b/	ban	/ban/
+/t/	tan	/tan/
+/d/	dan	/dan/
+/k/	can	/kan/
+/g/	give	/gIv/
+/m/	man	/man/
+/n/	nan	/nan/
+/N/	king	/kIN/	The correct symbol is 'latin n with decender' i think.
+/f/	fan	/fan/
+/v/	van	/van/
+/0/	thick	/0Ik/	The correct symbol is greek theta.
+/6/	there	/6er/	The orrect symbol is latin eth.
+/s/	sound	/saUnd/*
+/z/	zap	/zap/
+/S/	shame	/Seim/	The correct stmbol is latin esh.
+/Z/	seizure	/si.Z@r/The correct symbol is latin ezh
+/x/	loch ness /lcx.nes/*
+/y/	????	????	The correct symbol is greek gamma.
+
+/a/	zap	/zap/
+/i/	sleep	/slip/
+/I/	king	/kIN/
+/e/	ate	/eit/
+Crazy examples:
+
+Therganiods	/0er.g@n.noIds/
+
+
+* The c should be backwards but I can't type IPA,
+especially the really weird english ones.
+
+* The correct symbol for U is the ohm symbol but upside down
+like a horseshoe.

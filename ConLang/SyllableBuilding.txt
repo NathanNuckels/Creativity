@@ -1,0 +1,12 @@
+(*) = Optional
+
+The onset must be a plosive, fricative, affratate or a plosive and a fricative.
+Plosives: p t k b d g
+Fricatives: f v 0 6 s z S Z x y
+Affricates: t? d? kx
+Plosive and fricative: tf dv ks gz...
+
+The nuclius must ve a vowel, a dipthong, or a nasal.
+Vowels: i u e o a A
+Dipthongs: iu ie io ia ui ue ua ei eu eo oi oe oa oi oe oa ai au ao
+Nasals: m n N
