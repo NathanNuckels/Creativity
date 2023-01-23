@@ -1,0 +1,3 @@
+WIKAPEDIA_PREFIX = https://en.wikipedia.org/wiki/
+STELLIUS_WIKI_PREFIX = https://github.com/NathanNuckels/Creativity/tree/master/Starbase/wiki/
+SECRET_WIKI_PREFIX = http://computer-cat1@192.168.0.37:3000/PTP/wiki
