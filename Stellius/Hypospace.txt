@@ -1,0 +1,82 @@
+HYPERSPACE HYPOSPACE
+
+A shapespare-ish type explanation of hyperspace.
+Words in squeare brackets are not spoken, they are implied.
+
+TEKNIQ: [Why are you] 'Up so early?
+KELIDES: Yeah. Phoenix needs a ride here. Gonna hyperspace soon. Glad you're awake.
+TEKNIQ: Can you explain hyperspace again?
+KELDIES: Its a dimention smaller than our own.
+TEKNIQ: Should be called hypo-space if its smaller...
+KELDIES: Thirty two times smaller but only while you're moving.
+TEKNIQ: Huh?
+
+(Keldies pulls out his PEN, tosses it in the air and when he catches it,
+they both enter the Sketch Relm)
+
+KELIDES: Ok, os if you are moving, you have a direction of travel, right?
+(He draws a arrow and a line off the front of it)
+KELDIES: Prograde, the direction of travel.
+(He draws a line off the back)
+KELDIES: This is the opposite of the direction of travel, retrograde.
+KELDIES: Both of them combined make the prograde axis. You get it?
+TEKNIQ: You could have explaned that better but I guess I get it.
+KELDIES: Well, on this prograde axis, space is scaled to be 32 times smaller.
+KELIDES: Thats how fast travel works.
+KELIDES: But the rest of the world...
+(He draws the "Y" and "Z" axies (assuming prograde is X))
+KELDIES: Are not affected.
+(TEKNIQ draws an oval)
+TEKNIQ: So... planets look like this?
+KELDIES: Yeah. Also if you're not moving...
+(KELIDES draws a arrow-pointer somewhere else)
+KELIDES: Nothing changes.
+TEKNIQ: So what causes this?
+KELIDES: "Relitivistic Affects"
+KELIDES: This happens in real life near the speed of light.
+KELDIES: The hyperspace dimention is special casue all the effects start at a mere one kilomiter per seccond
+KELDIES: however it appears that its capped at 32 times smaller. Still convienent though.
+TEKNIQ: I'll just device the travel time by 32 and not think about any of that...
+TEKNIQ: Any dangers I should know about?
+KELIDES: Somthing odd is that hyperspace is not a *real* dimention. Theres our dimention,
+KELDIES: This inner dimention were in now wich is basically a low quality copy of our world
+KELDIES: Hyperspace is between the inner and outer worlds. There's nothing there. No light.
+KELIDES: Only darkness. Radar is alloued, to an extent.
+TEKNIQ: Arnt radio waves just low frequency light?
+KELIDES: Yes. VHF and UHF radio don't work but HF radio works.
+TEKNIQ: Dosn't HF mean high frequency?
+KELIDES: Well, yeah but in the grand scheme of things they are still quite low energy.
+TEKNIQ: 20MHz and below, right?
+KELDIES: Yup. All electromagnetic waves above 20 Megs (MHz) has its power segnificantly reduced.
+KELIDES: ANd the higher the frequency, the lower the power untill... black.
+KELIDES: Convienently, the maximum power for red light is enough for us to work. 
+KELIDES: Blue light isn't powerfull enough to light up the room but we can still see it so
+KELIDES: full color screens work, mostly.
+KELIDES: Anyway, we will also turn off gravity to save electricity.
+KELIDES: We can't generate electricity in hyperspace cause, ya know, no light.
+
+TEKNIQ: So, to summerize, use HF radio to communicate, use red lights to see. No gravity.
+
+KELDIES: Pretty much. Lets smap back to reality. Phoenix dosn't have much time before he is found out.
+KELIDES: Hes trying to sneak out, I don't think I mentioned that...
+KELDIES: Anyway, to Tellus* we go! (*Earth)
+
+(KELDIES turns the ship so that the crisshair points to the target on the HUD)
+(Rizing sound)
+
+(Sound effect from an Oolite mod)
+A-VOICE: FIVE FOUR 
+(All ambient noise suddenly stops. A deafining scilenece)
+A-VOICE: THREE TWO HWONE* JUMPING. (* pernounced oddly)
+
+(Black screen, Total darkness)
+
+(...)
+
+(.....)
+
+(Click. Red lights turn on, the HUD displays a crosshair, and a target square in green to contrast the red)
+(All colors are shifted. Split the video into its red green and blue channels. Delete the blue channel,
+devide the green by two, and don't change the red.)
+(White is orange, blue is black, Cyan is dark green, Purple is dark red...)
+
