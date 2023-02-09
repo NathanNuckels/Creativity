@@ -1,0 +1,113 @@
+Mosphere needs more countries.
+
+NAME / CLIMATE / GGOVERMENT SYSTEM / ECONOMY / CORPERATE SYSTEM / CULTURE
+
+First, lets define Mispherus, as an example
+
+Misferuus "Mispherus" / Mainly Planes / Partial Democracy / Communist / Socialist / Deterministic
+--Mainly Planes - Small, yet condenced cities
+--Partial Democracy - An odd combonation of democracy and monarchy
+--Communist - Mandatroy work is automated to focus on arts. Jobs are optional and people are paied fairly
+--Socialist - Workers own the means to production. If someone is growing food, that food belongs to them.
+--Dterministic - To accomidate artifical life, their culture is deterministic and very literal,
+to the point where their culture has a way of abbreviating C code so it can be said out loud.
+
+- The constitution is a git repo. You can clone, edit, commit, and pull request.
+- There is a master branch and a testing branch.
+- Pull requests are approved by the parlement. Hovever, the parlement is defined in the repo.
+It used to be eitable and to leave parlement, you would literally make a git commit to delete yourself.
+Of course, nobody really wanted to do that. Random perople would submit huge pull requests
+that sneakly get rid of some people and this lead to an oligarchy. They almost `git reset --hard`
+all the way back to capitalism. On top of that, new land was getting... "colonized". [Meme image: nobody liked that]
+People realized taht if everyone combined their wealth, it would be almost as much as the top 1%.
+Basically, everyone that wasn't a billionare *combind* is also a billionare. An angry mob broke into
+the "capital" (server room) and deleted records. Particularly, the constitution repo. They then dug
+up a backup, took the `cnstitution.txt` file from the very first commit, put it in an new repo and
+immeadiatly declared themselves parleent and changed all the passwords. Not its permenant!
+Wanna go back? `git reset --hard HEAD@1` dosn't take you to the previous commit, it takes you all the way
+back to the original constitution from '97! Wanna do it anyway? Don't have the password!
+They proceded to tell everyone esle to GTFO and the entire country lived in anarchy for a week!
+The big cities loved it. They invented their own mini-governemnt of anarchy, capitalism and socialism combined
+wich sounds a bit odd considering they are all opposites... bit it kinda worked... kinda.
+THere were thousands of mini goverments but basically luxeries cost money but basic human
+needs are free. Anarcho-capitalism. In socialism, "The workers on the means of production"
+In the mini-governments it was "...The what?" Yeah, they forgot 'production' existed.
+IMMEADIATE MICROCHIP SHORTAGE! One micro-governemnt got fed up with all the noise
+and became a macro-government and became Kxerhestar. Unfourtunatly, when they "declared"
+independence, they didn't tell anyone. When the goverment was reformed, they thought that
+tehy still controlled the "lake lands" and THEY didnt tell anyone either!
+They both thought they owned the land. The goverment decided do a little thing
+called WAR. commit titles were all over the place at the time. I'll dump some at the end.
+
+> How many commits?
+People argue the best time was arround 2 billion (Mosphere Year 300, circa 2450) and then
+the goverment became oligarchy, commits became frantic and quickly shot up to 2.3 Billion
+(Year 320) before getting completely reset (Year 324). Changes were made through huge ammounts of tiny
+commits wich quickly made it go from 5 commits, to 50,000 commits in a matter of months (Year 325)
+Eventually the government made spesific format requirements to make all commits uniform and easy to
+search through. At the current time (Mosphere year 450, circa 2600) it is roughly stable at
+2A,00,00,00 (750,000,000 in human numbers)
+
+> Mosphere years? When is 0?
+I'm not sure yet but I want to say the country/planet (and year 0) was arround 2200
+and it is currently set in year 2600 wich is arround 450 in mosphere years.
+Doing the math I'd say year zero was arround... ... ...2150 I guess?
+This is not cannon! ..yet. Not really ready to answer this but I knew someone would ask...
+
+> Do they literally use git?
+Uhhhhhh..... Yeah lol. They LITERALLY use the real git.
+"BuT GiT Is FoR HuManS. ThiS Is AliAn CivIlIzAt---" Shut up bro.
+If they know the human POSIX standards, can read and write the human C++
+programing language, and ccan almost speak HUMAN english and are very aware
+of HUMAN politics, It wouldn't be a big stretch to say that they use software
+that was made by Linus Torvalds (Assumed to be human). Also, was it cannon that
+achent tribes (2100 ish) worshiped their own source code wich happened to contain Linux
+(because they were Synths... er somthing.) Look man. I aint good at worldbuilding
+the anchent neolithic period... even if it did take place in 2070...
+
+> Is it a REAL repo? I wanna commit!
+I was going to make a repo for comidy reasons but now that I think about it,
+it seams like a good idea irl. Create a git repo, chunk in the us constitution,
+and my fictional mosphere constitution, say "Hey guys. got any constitutional ammendments?"
+and wait for the (probibly satire) pull requests to start rolling in!
+
+I'mma put this on r/worldjerking so for reference: pull request is basically
+someone requesting to edit stuff.
+
+
+
+...
+
+Alright. Now that I nave a format layed out, Lets make a seccond smaller country.
+This is the... evil little sister to mispherus. Well, not evil, not little, well its small in
+comparason. Ok, that analogy kinda sucked... Its a desert. but not a DESERT desert. It has lakes and stuff, 
+just not grass.
+And its kinda costal. It is not poor, but not rich either. Its quite pretty and---
+TROPICS. I'm thinking of tropics... See? Even I don't know what I'm writing about half the time.
+I love the /kx/ affricate so I want its name to start with that. It just sournds cool.
+
+
+Kxerhestar "Dest' Lands" / Tropical / ??? / Capitalist / ??? / Various
+I spent a lot of time making the name interesting. Problem is now noone except me
+cam pernoune it so I gave it an "English" name.
+--Tropical - Beutiful plants and lots of coastline. Oops, all heatwave!
+--Oligarchy - Much like the US, the goverment can be "sponcered" by companies. Unlike the US, the govt is literally a company!
+"Kxerhestar Peace Management" How ironic!
+--Capitalist - Everyone is always asking "Whats in it for me?"
+--??? TBD
+--Various - Overrun by humans! ....and Synths! ...and Protos! ...and- you get it. They got everything there.
+
+- Many people don't vote because it is too expencive (They change the price all the time)
+- Unlike Futurama, "robots" can't vote.
+  - Side note. These "robots" constantly fight over whether "robot" is a slur or not.
+  They're sentient, not just "robots".
+    - Side Side Note: The technical definitions of these words. "Synths" refers to Synthetic Life of ALL types, including protogens.
+    Helpers refer to the owobots and "robots" usually refers to "bots" and are not physical.
+- //..
+
+
+> tf is with your climate? Don't you map out climate zones and stuff?
+EHeheh, no I don't think about that. I make a desert naton,
+then I panic, (Desert dosn't have plants, how do people eat?) and now its
+in the tropics. Then i paniced (That dosn't feel right. THey have desert-like culture!)
+and now I just have a mess. To summerize: Egypt and Costa Rica, but like next to eachother.
