@@ -1,0 +1,25 @@
+Family Guy Cutaways and Futurama humor combined!
+
+
+PHOENIX: Well, some poeple put pineapple on pizza. Now that I'm a Synth
+and don't need to eat and all that, I don't really care anyomre.
+KELDIES: They what?
+PHOENIX: Pineapple on pizza...?
+KELDIES: If that thing has nothing to do with "pine" or "apple" I'm gonna---
+[Cut away]
+
+MAN 1: I'm making a package manager
+MAN 1: Its more of an AUR helper but it also interfaces with pacman when it has to.
+MAN 2: Alrighty. Wanna call it LibreBox cause a package is a box?
+MAN 2: Or mabe OpenBox would be better cause you're opening a box?
+MAN 1: 'Box' usually refers to virtual machines.
+MAN 2: Alright. NewPacMan? Yet Another Pacman? YAP. That sounds fun.
+MAN 1: 'YAY' sounds more fun.
+MAN 2: Ok. What does it mean?
+MAN 1: Yet another... yogurt.
+[Long pause]
+[Footnote appears]
+Yet Another Yogurt (YAY) is a AUR helper / Pacman helper for Arch Linux.
+MAN 2: What?
+[Return]
+
