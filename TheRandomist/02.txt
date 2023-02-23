@@ -1,0 +1,152 @@
+[Alan is doing an interview with someone about characters]
+
+A: New 3D models announced! I've finished one and I'll start the other two later.
+
+X: What are they?
+A: Oh, sorry, its uh, Phoenix---
+X: Ooh, anbitous much?
+A: Heh, uhh, Axel and Finn
+
+X: Who's Finn?
+A: Well, its the internal name of the squeaky shark.
+X: Oh ok. Does it have a real name?
+A: Not yet. I can't really think of anything.
+
+X: Oh... Hows Axel like again?
+A: He's like Nympherious. Just green. All green. But not trnaslucent green,
+just regular green... and sometimes dark green. Well, sometimes he is translucent...
+but not the head---
+
+X: Okay! Hows the models going? Hows Phoenix?
+A: Just got the head but I'm very proud of it. No shaders either, just the model of the head.
+A: And idk if the ears are there or if I didn't get to it.
+
+X: Hows Axel?
+A: I did the head and the shaders at the same time but now I need to 3D model fur.
+X: Can't you just use a fur simulation?
+A: I wish, I need this to be compatible with Occulus Quest and other VR stuff and low end devicees and all that.
+A: I want the fur to be raw. Totally baked into the model. If you look at the Furret 3D model from Pokemon X,
+A: They add fur to the end of the tail by making little spikes. I tried adding spikes. Does. not. work. Looks terrible.
+A: Not really sure how to continue with this...
+X: Does Axel even have fur?
+A: Actully no! I just wanted to put *somthing* on the head to make it less bland! Thats hy Phoenix has hair now.
+A: Thankfully I already draw his hair as a bunch of spikes so it should be easier for me to process.
+X: Ok, got your hopes up.
+
+X: And the last one, Finn. Hows that going?
+A: The model? DONE!! The shaders? DONE!!! So, on the arms, theres a little white "dot"
+X: But its not a dot its a sector-like shape.
+A: Yeah. That was due to technical limitations but now that I look at it, its kinda cool!
+X: I bet the eyes are complicated.
+A: Yeah. Theres a black circle thing that is uh shrinkwrap modifier to project it onto the character.
+A: And on top of that the eyes are projected on to the black thing and thats the whole face.
+X: No mouth?
+A: Its cuter that way lol.
+A: Oh yeah, most furries have four fingers, my characters have three fingers, but I making ome changes.
+A: Phoenix, Finn, and Axel now have three fingers and a thumb.
+X: Didn't you say you hated the tree toe synth model?
+A: Yes. hate it. but thats three toes. my dudes got claws. Dosn't look as odd.
+X: Does it? ... Eh-yeah you're right.
+
+X: Speaking of Synths, don't you have to 3D model a synth too?
+A: Yeah, for the fursuit. I'm not going to 3D model it right now, I'm just making out the basic
+A: geometry and going to make a cardboard prototype.
+X: You did 3D model it. On paper.
+A: Sure did! Technically.
+
+X: And before we dive into the details, how can we get these models?
+A: Its internal only at STUDIO V right now.
+X: Oh...
+A: But for people with acess to the internal repos, its available at
+http://git.phoenix.sh:3000/computer-cat1/Models
+A: And you can clone it at this URL.
+http://USERNAME@git.phoenix.sh:3000/computer-cat1/Models.git
+A: Oh, and if that dosn't work, replace 'git.phoenix.sh' with '192.168.0.37'
+
+X: Alright, lets go in to sme of the technical details.
+A: Theres not much to say for a lot of these so lets just talk about Finn.
+
+X: How was Finn modeled?
+A: I used a UV sphere extruded down for the main boy and for the rest I just used my stupid stratigy.
+X: Wich is...
+A: Add a subsurf modifier and make a bunch of cubes! Its hard for me to work with high-poly models
+A: of characters cause most of the time, I can't even visualize the caricter correctly.
+A: With objects, I use high-poly modeling but for characters, it too much for me. Sub-surf cubes!
+X: Remember, modifiers.
+A: Yes modifiers! Mirror and sub-surf. Thats all. Oh, isnt armature technically a modifier?
+
+X: The screen was a project modifier?
+A: Yes. It is projected onto the base model.
+X: Will the screen eform with the model?
+A: I sure hope so! I'll parent with empty weights, and then forse connect it to the head.
+A: I also have plans to make both eyes have bones in the armature.
+A: I'll also need to make sure it projects along normals instead of the X axis.
+
+X: Did you add the connecter thingy?
+A: Oh, not yet. I just did sotmhing quite risky. Each connecter has a 'bone' group
+A: Wich i connected to a bone wich controlls what its connected to. I just merged two
+A: meshes with a 'Bone' group. Would they override eachother?
+X: Blender never deletes data. There should be a 'Bone' and a 'Bone.001'
+A: Yeah, I sure hope so.
+A: To make the old groups and new bones connect, I just need to make sure they have the same names.
+A: 'ConnectMain' and 'ConnectTail'
+A: I was also having issues with weights. 0 means it is not affected. 1 means it is moved by the bone.
+A: Anything in between that is... well... In between, I thought. Apperantly, anything that isn't a zero is a one.
+A: Unless I make the armature modifier only act on that one weight-group-thingy but then It won't act on anything else! ...I think.
+
+X: The handles. How did that go?
+A: Not done yet but there will be handles on the back.
+X: And arms?
+A: No. No arm handles. Arms too smol.
+X: Yes but... side handles.
+A: Oh, hmm. On the side of the head... or next to his hands...
+A: No side handles. They get in the way actually.
+
+X: And what about the pin?
+A: The pin?
+A: ...
+A: OH YEAH. Totally forgot about that! Do you want like technical details or---
+X: Where will the pin go?
+A: Huh?
+X: Like on the front, side---
+A: Oh, on the side, kinda near the front. and on his lllllrrrrrrrrrright side. Yes. Deffinitly right side.
+A: Or mabee... No. its on the right.
+X: But he's lefty though.
+A: I know, put it on the right. Don't want to mess with it accidently.
+
+X: Ok, pin technical details.
+A: Haha, I've already worked this out, kinda. Its compliated. The end of the pin is going to
+A: ne part of the mesh nd controlled by armature and all that but the pin is connected with a string.
+A: The string is going to be fully procedural.
+X: Ooh.
+A: Yup. Use cloth simulation to make a rope. Line of verticies, take the last one, use hook modifier to
+A: Make it tied to an empty and use a constraint to tie the empty to the bone. Now the end of the string
+A: Is moved by the bone. Take that end and the other end and make them a pinned vertex group in the cloth settings.
+A: Final step is to take a cyllender and parent-deform it or somthing. I don't know- is there a 'morph' modifier?
+A: I can bend a mesh arround a curve with the curve modifier but how do I bend a mesh to a mesh?
+X: I remember watching a tutorial on that. Definitly a modifier.
+A: Can we pause real quick? Now I wanna look it up!
+A: Blender Secrets rope tutorial... Its uhhhhhhh.... Surface Deform!!! Help me remember that!
+A: Anyway, Cyllander, jet black, super thin so lets say 6 verts---
+X: Like, its a hexagon but extruded?
+A: Yeah. Super low poly cause you can barly see it. It just has to be there. But add a bunch of edge loops. at least the same
+A: ammount as verts in the--- let me start over.
+A: Every Vert in the line gets a hexagon in the rope. Connect all the hexagons together and you get a solid object.
+X: Why not make it even more low poly and use 4 verts or 3?
+A: Once you get that low down, You can tell. Can't be a plane cause you can tell. Triangle and square you can tell.
+A: And pentagon is so close to a hexagon, might as well round up.
+X: Sounds like you've been putting a lot of thought into this.
+A: Yeah I have literally nothing else to think about all day.
+X: Whats on the end---
+A: End of the pin is a triangle. Create a "circle" with 3 verts to get an equalateral triangle, inset it to get a slightly
+A: Smaller triangle in the moddle. Delete it. Now you have the outline of a triangel. extrude. Bevel the inner edges
+A: and set its material to be yellow, or mabee rust-colored, still deciding but yeah thats it.
+
+X: Wow, you seem to know EXACTICALLY what you want.
+A: Literally been thinking about it all day.
+
+A: Its almost 12:40 I got to go to work now.
+A: I will make all those changes and commit them and finish all that.
+
+X: Remember to git push!
+A: Ah, yes. Forgot to upload changes! I'll do it! Bye!
