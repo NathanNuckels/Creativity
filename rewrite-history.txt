@@ -1,0 +1,55 @@
+We need to git back! Note from '7.6 Git Tools - Rewriting History'
+
+Once you push somthing, you can't change it.
+But I'm gonna try anyway. I'll update this with my experiments
+later.
+
+Typo!
+  git add whatever
+  git commit --ammend
+
+We need to go back!
+  git rebase -i HEAD~3
+  
+  Warning: Every commit you change AND ALL OF ITS DECENDENTS
+  will be rewritten!! 
+  
+  Edit messages, Change commit order, whatever you want!
+  
+  use the 'squash' command to mash 3 commits into one! Its magic!
+  But with great power, comes great oopsie-daisies.
+
+  Commit split!
+  
+  You have A B C
+  But you want A B.1 B.2 C
+  
+  use 'edit' in rebase.
+  
+  pick xxxxxxx A
+  edit xxxxxxx B
+  pick xxxxxxx C
+  
+  It then dumps you into commit B.
+  
+  git reset HEAD^
+  git commit -m "B1"
+  git commit -m "B2"
+  git rebse --continue
+  
+The Nuclear Option
+
+  Dont use it. Use this insted:
+  https://github.com/newren/git-filter-repo
+  
+  DESTROY!
+    Removing a file from EVERY commit.
+    git add .
+    git commit -m "ghgh"
+    Oops. commited a massive file, or a password or wahtever.
+    Must be purged with filter-branch
+    
+    git filter-branch --tree-filter 'rm -f passworrds.txt' HEAD
+    The 'rm' commands is run in each checkout.
+    Passwords.txt is now eraced from history.
+    
