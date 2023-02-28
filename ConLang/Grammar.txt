@@ -1,0 +1,80 @@
+How would computers speak? Well...
+
+Heres an example sentence.
+Tyler quietly treads in snow on stage while wearing his flower komono.
+Yes, I went to the ICY Tour, how would you tell?
+
+English
+Tyler quietly treads in snow while wearing his flower komono.
+
+Spanish (English words)
+Tyler treads quietly on the snow on the stage while he wears komono flower of him.
+
+Python
+tyler=Tyler()
+tyler.tread("snow","quietly") //S V O AV  AV=adverb
+tyler.wear(tyler.flowerKomono) //S V P O  P=possesive
+
+Java
+private Tyler tyler = new Tyler();
+tyler.tread("snow","quietly"); //S V O AV
+tyler.wear(tyler.flowerKomono); //S V P O
+
+Looks like code is simaler to english, right? Well, lets dig deeper.
+If you get low enough, grammer falls apart.
+
+C++
+Tyler tyler = new Tyler();
+tyler.tread("snow","quietly"); //S V O AV
+tyler.wear(Tyler::komono::flower); //S V P A O   A=adjitave
+
+C
+struct Tyler tyler = tylerInit();
+tread(tyler,"snow","quietly"); //V S O AV //Hmm, word order changed...
+wear(tyler,TylerFlowerKomono); //V S P A O
+
+So we have "tread Tyler snow quietly + wear tyler tyler-komono-flower"
+it gets worse if you dig deeper...
+
+6502 Assembly.
+
+TYLER   DF 32
+MAIN
+        LDA #$TYLER  // V O
+        STA TylerInitPerams// V O
+        JSR TylerInit // V O
+        ...
+I give up.
+
+So, in C++ we have S V P A O AV
+In C we have       V S P A O AV
+English is         S AV V P A O
+Spanish is         S V AV O A P
+So what is mine?
+I'm thinking...    S V AV P A O
+So, my word order would be:
+Tyler walks quietly through the snow on the stage while he wears his flower komono.
+And here is is in old english, just for fun.
+On stage Tyler walks through snow; his flower komono, he wears.
+And heres the original again:
+Tyler quietly treads on stage through snow while he wears his flower komono.
+
+Notice I switched the word order in the English version too? Yeah, English has somewhat free word order.
+You can't swap random stuff but you can rearange some words.
+
+Tyler walks quietly through the snow on the stage while he wears his flower komono.
+S---- V---- AV----------------------------------- +---- S- V---- O----------------
+                                S--- V- O--------                P-- A----- O-----
+
+Just cut down on the prepositional phrases and were done!
+
+Tyler walks quietly through snow on stage while he wears his flower komono.
+S---- V---- AV--------------------------- +---- S- V---- O----------------
+                            S--- V- O----                P-- A----- O-----
+
+So, the final word order:
+
+Subject, Verb, adverb, possesive, adjitive, object.
+Clause, conuunction, cluase.
+
+Syntax DONE!
