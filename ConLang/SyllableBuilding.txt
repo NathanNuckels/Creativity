@@ -3,7 +3,9 @@
 The onset must be a plosive, fricative, affratate or a plosive and a fricative.
 Plosives: p t k p' t' k'
 Fricatives: f v 0 6 s z S Z x y
-Affricates: t? d? kx
+Affricates: tS dZ kx
+Liquids: l r j
+Other: w M
 Plosive and fricative: tf dv ks gz...
 
 The nuclius must ve a vowel, a dipthong, or a nasal.
