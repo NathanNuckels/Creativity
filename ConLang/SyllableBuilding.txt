@@ -1,7 +1,7 @@
 (*) = Optional
 
 The onset must be a plosive, fricative, affratate or a plosive and a fricative.
-Plosives: p t k b d g
+Plosives: p t k p' t' k'
 Fricatives: f v 0 6 s z S Z x y
 Affricates: t? d? kx
 Plosive and fricative: tf dv ks gz...
