@@ -67,7 +67,7 @@ Did any of that make scence? No? Good! All you need to know is that WASDQE turns
 Lastly, the most important controll, the big red button, or rather, big black/white button. To give it that big red button feel, you use the spacebar to stage.
 You should also press space cause you want to go to space. But not yet! Theres "science" to do!
 
-Right click the command pod and click crew repot. Press the green button to save. Hover over your Kerbals picture in the corener and
+Right click the command pod and click crew report. Press the green button to save. Hover over your Kerbals picture in the corener and
 click EVA.
 
 Right click the command pod and click 'take data'. Right click the kerbal and click EVA report, then surface sample. Then press B to get back inside.
@@ -77,3 +77,10 @@ This isn't science! And you're right, but the R&D department dosn't even know th
 Why do they not know? Cause they're Kerbals! Thats my little reason why all of this "science" gets you so far. Oh, and by the way, you can technically
 complete the entire game just by running exteriments in different bioms in Kerbin. You can beat the entire game without ever going to space. How boring!
 The science system is unbalanced but thats alright. Just make sure to do lots of different missions to keep it interesting
+
+Right click another mystery goo but don't observe it, just keep it open.
+
+Press space to launch!!
+
+Tap D while flying to tip east. I'd say, to about the 70 degree marker.
+
